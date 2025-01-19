@@ -1,6 +1,6 @@
 # FirstAI-Voice
 
-FirstAI-Voice is an end-to-end voice model launched by Zhipu AI. FirstAI-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
+FirstAI-Voice is an end-to-end voice model. FirstAI-Voice can directly understand and generate Indonesia and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
 
 ## Model Architecture
 
